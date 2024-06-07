@@ -1,0 +1,109 @@
+brand,price,number_of_seat,start_time,start_day,end_day,end_time,trip_time,take_place,destination,location
+Lien Hung,290000,34 chỗ ngồi,01:30,24-05-2024,24-05-2024,10:00,8 giờ 30 phút,"Ngã 4 An Sương Siêu thị đá Granite & Marble Tây Nam, 2555 QL1A, Khu Phố 3","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Hanh Cafe,260000,41 chỗ ngồi,07:45,24-05-2024,24-05-2024,15:45,8 giờ ,VP Sài Gòn 273 Phạm Ngũ Lão,VP Nha Trang 1 106 Phong Châu,Nha Trang
+Cuc Tung,450000,21 chỗ ngồi,08:00,24-05-2024,24-05-2024,16:00,8 giờ ,"Bến xe Miền Đông mới A Số 501, đường Hoàng Hữu Nam","Bến Xe Phía Nam Nha Trang Km số 6, đường 23/10, TP. Nha Trang, Khánh Hòa",Nha Trang
+Cuc Tung,450000,21 chỗ ngồi,08:00,24-05-2024,24-05-2024,16:20,8 giờ 20 phút,"Bến xe Miền Đông mới A Số 501, đường Hoàng Hữu Nam","Bến Xe Phía Nam Nha Trang Km số 6, đường 23/10, TP. Nha Trang, Khánh Hòa",Nha Trang
+Cuc Tung,450000,21 chỗ ngồi,09:30,24-05-2024,24-05-2024,17:50,8 giờ 20 phút,"Bến xe Miền Đông mới A Số 501, đường Hoàng Hữu Nam","Bến Xe Phía Nam Nha Trang Km số 6, đường 23/10, TP. Nha Trang, Khánh Hòa",Nha Trang
+Cuc Tung,450000,21 chỗ ngồi,10:30,24-05-2024,24-05-2024,18:50,8 giờ 20 phút,"Bến xe Miền Đông mới A Số 501, đường Hoàng Hữu Nam","Bến Xe Phía Nam Nha Trang Km số 6, đường 23/10, TP. Nha Trang, Khánh Hòa",Nha Trang
+Hanh Cafe,300000,34 chỗ ngồi,11:00,24-05-2024,24-05-2024,19:00,8 giờ ,VP Sài Gòn 273 Phạm Ngũ Lão,VP Nha Trang 1 106 Phong Châu,Nha Trang
+Khanh Phong,450000,21 chỗ ngồi,11:00,24-05-2024,24-05-2024,16:25,5 giờ 25 phút,"Văn Phòng Phạm Ngũ Lão - Quận 1 Số 293 Phạm Ngũ Lão, P.Phạm Ngũ Lão","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Cuc Tung,450000,21 chỗ ngồi,11:30,24-05-2024,24-05-2024,19:50,8 giờ 20 phút,"Bến xe Miền Đông mới A Số 501, đường Hoàng Hữu Nam","Bến Xe Phía Nam Nha Trang Km số 6, đường 23/10, TP. Nha Trang, Khánh Hòa",Nha Trang
+Huynh Gia,300000,38 chỗ ngồi,11:45,24-05-2024,24-05-2024,19:00,7 giờ 15 phút,VP Phạm Ngũ Lão 275H Phạm Ngũ Lão, Ninh Hoà 582 Trần Quý Cáp,Nha Trang
+Khanh Phong,320000,32 chỗ ngồi,11:50,24-05-2024,24-05-2024,17:15,5 giờ 25 phút,"Văn Phòng Phạm Ngũ Lão - Quận 1 Số 293 Phạm Ngũ Lão, P.Phạm Ngũ Lão","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Cuc Tung,450000,21 chỗ ngồi,12:30,24-05-2024,24-05-2024,20:50,8 giờ 20 phút,"Bến xe Miền Đông mới A Số 501, đường Hoàng Hữu Nam","Bến Xe Phía Nam Nha Trang Km số 6, đường 23/10, TP. Nha Trang, Khánh Hòa",Nha Trang
+Huynh Gia,480000,21 chỗ ngồi,12:30,24-05-2024,24-05-2024,19:45,7 giờ 15 phút,VP Phạm Ngũ Lão 275H Phạm Ngũ Lão, Ninh Hoà 582 Trần Quý Cáp,Nha Trang
+Lien Hung,300000,32 chỗ ngồi,13:00,24-05-2024,25-05-2024,00:00,11 giờ ,Bến xe Miền Tây (Quầy 24) 395 Kinh Dương Vương,Bến xe Ninh Hòa QL1A,Nha Trang
+Lien Hung,290000,32 chỗ ngồi,13:30,24-05-2024,24-05-2024,23:00,9 giờ 30 phút,"Ngã 4 An Sương Siêu thị đá Granite & Marble Tây Nam, 2555 QL1A, Khu Phố 3","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Khanh Phong,450000,21 chỗ ngồi,14:00,24-05-2024,24-05-2024,19:25,5 giờ 25 phút,"Văn Phòng Phạm Ngũ Lão - Quận 1 Số 293 Phạm Ngũ Lão, P.Phạm Ngũ Lão","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Cuc Tung,450000,21 chỗ ngồi,14:30,24-05-2024,24-05-2024,22:50,8 giờ 20 phút,"Bến xe Miền Đông mới A Số 501, đường Hoàng Hữu Nam","Bến Xe Phía Nam Nha Trang Km số 6, đường 23/10, TP. Nha Trang, Khánh Hòa",Nha Trang
+Khanh Phong,450000,21 chỗ ngồi,15:30,24-05-2024,24-05-2024,20:55,5 giờ 25 phút,"Văn Phòng Phạm Ngũ Lão - Quận 1 Số 293 Phạm Ngũ Lão, P.Phạm Ngũ Lão","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Khanh Phong,450000,21 chỗ ngồi,15:35,24-05-2024,24-05-2024,21:00,5 giờ 25 phút,"Văn Phòng Phạm Ngũ Lão - Quận 1 Số 293 Phạm Ngũ Lão, P.Phạm Ngũ Lão","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Quang Hanh,370000,32 chỗ ngồi,16:30,24-05-2024,25-05-2024,01:55,9 giờ 25 phút,"Trạm Quang Hạnh - Bình Thạnh 349 Đinh Bộ Lĩnh, đối diện Bến xe Miền Đông - Cổng số 3","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Quang Hanh,360000,32 chỗ ngồi,17:00,24-05-2024,25-05-2024,02:40,9 giờ 40 phút,"Trạm Quang Hạnh - Bình Thạnh 349 Đinh Bộ Lĩnh, đối diện Bến xe Miền Đông - Cổng số 3","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Hong Son (Phu Yen),290000,34 chỗ ngồi,17:30,24-05-2024,25-05-2024,02:03,8 giờ 33 phút,Cầu vượt Linh Xuân QL1A,Ninh Hòa QL1A QL1A,Nha Trang
+Quang Hanh,360000,32 chỗ ngồi,17:30,24-05-2024,25-05-2024,04:55,11 giờ 25 phút,"Trạm Quang Hạnh - Bình Thạnh 349 Đinh Bộ Lĩnh, đối diện Bến xe Miền Đông - Cổng số 3","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Quang Hanh,370000,32 chỗ ngồi,17:45,24-05-2024,25-05-2024,01:55,8 giờ 10 phút,"Ngã Tư Bình Phước QL13, P. Hiệp Bình Phước, Q. Thủ Đức, Tp. Hồ Chí Minh","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Lien Hung,290000,32 chỗ ngồi,18:00,24-05-2024,25-05-2024,04:00,10 giờ ,"Ngã 4 An Sương Siêu thị đá Granite & Marble Tây Nam, 2555 QL1A, Khu Phố 3","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Quang Hanh,360000,32 chỗ ngồi,18:00,24-05-2024,25-05-2024,02:40,8 giờ 40 phút,"Bến xe An Sương Quốc Lộ 22, Xã Bà Điểm","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Quang Hanh,480000,22 chỗ ngồi,18:00,24-05-2024,25-05-2024,03:40,9 giờ 40 phút,"Trạm Quang Hạnh - Bình Thạnh 349 Đinh Bộ Lĩnh, đối diện Bến xe Miền Đông - Cổng số 3","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Quang Hanh,360000,32 chỗ ngồi,18:30,24-05-2024,25-05-2024,02:40,8 giờ 10 phút,"Ngã Tư Bình Phước QL13, P. Hiệp Bình Phước, Q. Thủ Đức, Tp. Hồ Chí Minh","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Quang Hanh,480000,22 chỗ ngồi,18:30,24-05-2024,25-05-2024,03:55,9 giờ 25 phút,"Trạm Quang Hạnh - Bình Thạnh 349 Đinh Bộ Lĩnh, đối diện Bến xe Miền Đông - Cổng số 3","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Quang Hanh,480000,22 chỗ ngồi,18:45,24-05-2024,25-05-2024,04:25,9 giờ 40 phút,"Trạm Quang Hạnh - Bình Thạnh 349 Đinh Bộ Lĩnh, đối diện Bến xe Miền Đông - Cổng số 3","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Huynh Gia,280000,38 chỗ ngồi,19:00,24-05-2024,25-05-2024,04:00,9 giờ ,VP Phạm Ngũ Lão 275H Phạm Ngũ Lão,Văn Phòng Nha Trang  16-18 Nguyễn Chánh,Nha Trang
+Huynh Gia,280000,38 chỗ ngồi,19:00,24-05-2024,25-05-2024,04:45,9 giờ 45 phút,VP Phạm Ngũ Lão 275H Phạm Ngũ Lão, Ninh Hoà 582 Trần Quý Cáp,Nha Trang
+Huynh Gia,280000,38 chỗ ngồi,19:00,24-05-2024,25-05-2024,05:25,10 giờ 25 phút,VP Phạm Ngũ Lão 275H Phạm Ngũ Lão,Chợ Dục Mỹ 19 tháng 5,Nha Trang
+Quang Hanh,360000,32 chỗ ngồi,19:00,24-05-2024,25-05-2024,04:55,9 giờ 55 phút,"Ngã Tư Bình Phước QL13, P. Hiệp Bình Phước, Q. Thủ Đức, Tp. Hồ Chí Minh","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Quang Hanh,480000,22 chỗ ngồi,19:00,24-05-2024,25-05-2024,03:40,8 giờ 40 phút,"Bến xe An Sương Quốc Lộ 22, Xã Bà Điểm","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Quang Hanh,480000,22 chỗ ngồi,19:00,24-05-2024,25-05-2024,04:25,9 giờ 25 phút,"Trạm Quang Hạnh - Bình Thạnh 349 Đinh Bộ Lĩnh, đối diện Bến xe Miền Đông - Cổng số 3","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Hanh Cafe,260000,41 chỗ ngồi,19:30,24-05-2024,25-05-2024,03:30,8 giờ ,VP Sài Gòn 273 Phạm Ngũ Lão,VP Nha Trang 1 106 Phong Châu,Nha Trang
+Lien Hung,440000,22 chỗ ngồi,19:30,24-05-2024,25-05-2024,04:00,8 giờ 30 phút,"Ngã 4 An Sương Siêu thị đá Granite & Marble Tây Nam, 2555 QL1A, Khu Phố 3","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Phuong Nam,260000,40 chỗ ngồi,19:30,24-05-2024,25-05-2024,05:22,9 giờ 52 phút,Văn phòng Quận 1 B 275E Phạm Ngũ Lão,"Ngã 3 trong 658 Trần Quý Cáp, TT. Ninh Hòa, Ninh Hòa, Khánh Hòa",Nha Trang
+Phuong Nam,260000,40 chỗ ngồi,19:30,24-05-2024,25-05-2024,05:47,10 giờ 17 phút,Văn phòng Quận 1 B 275E Phạm Ngũ Lão,Vòng xoay Ninh Diêm B 5 Lê Hồng Phong,Nha Trang
+Quang Hanh,480000,22 chỗ ngồi,19:30,24-05-2024,25-05-2024,03:40,8 giờ 10 phút,"Ngã Tư Bình Phước QL13, P. Hiệp Bình Phước, Q. Thủ Đức, Tp. Hồ Chí Minh","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Lien Hung,290000,34 chỗ ngồi,19:45,24-05-2024,25-05-2024,04:45,9 giờ ,"Ngã 4 An Sương Siêu thị đá Granite & Marble Tây Nam, 2555 QL1A, Khu Phố 3","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Quang Hanh,480000,22 chỗ ngồi,19:45,24-05-2024,25-05-2024,03:55,8 giờ 10 phút,"Ngã Tư Bình Phước QL13, P. Hiệp Bình Phước, Q. Thủ Đức, Tp. Hồ Chí Minh","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Quang Hanh,480000,22 chỗ ngồi,19:45,24-05-2024,25-05-2024,04:25,8 giờ 40 phút,"Bến xe An Sương Quốc Lộ 22, Xã Bà Điểm","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Cuc Tung,450000,21 chỗ ngồi,20:00,24-05-2024,25-05-2024,04:00,8 giờ ,"Bến xe Miền Đông mới A Số 501, đường Hoàng Hữu Nam","Bến Xe Phía Nam Nha Trang Km số 6, đường 23/10, TP. Nha Trang, Khánh Hòa",Nha Trang
+Cuc Tung,450000,21 chỗ ngồi,20:00,24-05-2024,25-05-2024,04:20,8 giờ 20 phút,"Bến xe Miền Đông mới A Số 501, đường Hoàng Hữu Nam","Bến Xe Phía Nam Nha Trang Km số 6, đường 23/10, TP. Nha Trang, Khánh Hòa",Nha Trang
+Huynh Gia,280000,38 chỗ ngồi,20:00,24-05-2024,25-05-2024,04:00,8 giờ ,"Cổng Bến xe Miền Tây 395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh 700000, Vietnam",Văn Phòng Nha Trang  16-18 Nguyễn Chánh,Nha Trang
+Huynh Gia,280000,38 chỗ ngồi,20:00,24-05-2024,25-05-2024,04:45,8 giờ 45 phút,"Cổng Bến xe Miền Tây 395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh 700000, Vietnam", Ninh Hoà 582 Trần Quý Cáp,Nha Trang
+Huynh Gia,280000,38 chỗ ngồi,20:00,24-05-2024,25-05-2024,05:25,9 giờ 25 phút,"Cổng Bến xe Miền Tây 395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh 700000, Vietnam",Chợ Dục Mỹ 19 tháng 5,Nha Trang
+Lien Hung,270000,34 chỗ ngồi,20:00,24-05-2024,25-05-2024,05:30,9 giờ 30 phút,"Ngã 4 An Sương Siêu thị đá Granite & Marble Tây Nam, 2555 QL1A, Khu Phố 3","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Lien Hung,290000,34 chỗ ngồi,20:15,24-05-2024,25-05-2024,05:15,9 giờ ,"Ngã 4 An Sương Siêu thị đá Granite & Marble Tây Nam, 2555 QL1A, Khu Phố 3","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Quang Hanh,480000,22 chỗ ngồi,20:15,24-05-2024,25-05-2024,04:25,8 giờ 10 phút,"Ngã Tư Bình Phước QL13, P. Hiệp Bình Phước, Q. Thủ Đức, Tp. Hồ Chí Minh","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Quang Hanh,480000,22 chỗ ngồi,20:15,24-05-2024,25-05-2024,04:25,8 giờ 10 phút,"Ngã Tư Bình Phước QL13, P. Hiệp Bình Phước, Q. Thủ Đức, Tp. Hồ Chí Minh","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Khanh Phong,320000,32 chỗ ngồi,20:25,24-05-2024,25-05-2024,01:50,5 giờ 25 phút,"Văn Phòng Phạm Ngũ Lão - Quận 1 Số 293 Phạm Ngũ Lão, P.Phạm Ngũ Lão","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Khanh Phong,480000,21 chỗ ngồi,20:30,24-05-2024,25-05-2024,01:55,5 giờ 25 phút,"Văn Phòng Phạm Ngũ Lão - Quận 1 Số 293 Phạm Ngũ Lão, P.Phạm Ngũ Lão","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Cuc Tung,450000,21 chỗ ngồi,20:35,24-05-2024,25-05-2024,04:55,8 giờ 20 phút,"Bến xe Miền Đông mới A Số 501, đường Hoàng Hữu Nam","Bến Xe Phía Nam Nha Trang Km số 6, đường 23/10, TP. Nha Trang, Khánh Hòa",Nha Trang
+Lien Hung,290000,32 chỗ ngồi,20:45,24-05-2024,25-05-2024,05:15,8 giờ 30 phút,"Ngã 4 An Sương Siêu thị đá Granite & Marble Tây Nam, 2555 QL1A, Khu Phố 3","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Cuc Tung,450000,21 chỗ ngồi,21:00,24-05-2024,25-05-2024,05:20,8 giờ 20 phút,"Bến xe Miền Đông mới A Số 501, đường Hoàng Hữu Nam","Bến Xe Phía Nam Nha Trang Km số 6, đường 23/10, TP. Nha Trang, Khánh Hòa",Nha Trang
+Huynh Gia,480000,21 chỗ ngồi,21:00,24-05-2024,25-05-2024,04:15,7 giờ 15 phút,VP Phạm Ngũ Lão 275H Phạm Ngũ Lão, Ninh Hoà 582 Trần Quý Cáp,Nha Trang
+Lien Hung,290000,34 chỗ ngồi,21:00,24-05-2024,25-05-2024,05:30,8 giờ 30 phút,"Ngã 4 An Sương Siêu thị đá Granite & Marble Tây Nam, 2555 QL1A, Khu Phố 3","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Phuong Nam,460000,22 chỗ ngồi,21:00,24-05-2024,25-05-2024,06:52,9 giờ 52 phút,Văn phòng Quận 1 B 275E Phạm Ngũ Lão,"Ngã 3 trong 658 Trần Quý Cáp, TT. Ninh Hòa, Ninh Hòa, Khánh Hòa",Nha Trang
+Phuong Nam,460000,22 chỗ ngồi,21:00,24-05-2024,25-05-2024,07:17,10 giờ 17 phút,Văn phòng Quận 1 B 275E Phạm Ngũ Lão,Vòng xoay Ninh Diêm B 5 Lê Hồng Phong,Nha Trang
+Cuc Tung,450000,21 chỗ ngồi,21:30,24-05-2024,25-05-2024,05:50,8 giờ 20 phút,"Bến xe Miền Đông mới A Số 501, đường Hoàng Hữu Nam","Bến Xe Phía Nam Nha Trang Km số 6, đường 23/10, TP. Nha Trang, Khánh Hòa",Nha Trang
+Lien Hung,440000,21 chỗ ngồi,21:30,24-05-2024,25-05-2024,08:30,11 giờ ,Bến xe Miền Tây (Quầy 24) 395 Kinh Dương Vương,Bến xe Ninh Hòa QL1A,Nha Trang
+Trong Thang,390000,32 chỗ ngồi,21:30,24-05-2024,25-05-2024,07:15,9 giờ 45 phút,Tân Phú 87/2 Bờ Bao Tân Thắng,"Trạm Khánh Sơn Trung tâm thị trấn, ĐT656",Nha Trang
+Lien Hung,440000,22 chỗ ngồi,22:00,24-05-2024,25-05-2024,05:45,7 giờ 45 phút,"Ngã 4 An Sương Siêu thị đá Granite & Marble Tây Nam, 2555 QL1A, Khu Phố 3","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Lien Hung,440000,21 chỗ ngồi,22:00,24-05-2024,25-05-2024,07:30,9 giờ 30 phút,"Ngã 4 An Sương Siêu thị đá Granite & Marble Tây Nam, 2555 QL1A, Khu Phố 3","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Hong Son (Phu Yen),400000,22 chỗ ngồi,22:03,24-05-2024,25-05-2024,07:33,9 giờ 30 phút,"VP Quận 10 1B Bắc Hải,",Ninh Hòa QL1A QL1A,Nha Trang
+Huynh Gia,480000,22 chỗ ngồi,22:10,24-05-2024,25-05-2024,05:10,7 giờ ,VP Phạm Ngũ Lão 275H Phạm Ngũ Lão,Văn Phòng Nha Trang  16-18 Nguyễn Chánh,Nha Trang
+Huynh Gia,480000,22 chỗ ngồi,22:10,24-05-2024,25-05-2024,05:40,7 giờ 30 phút,VP Phạm Ngũ Lão 275H Phạm Ngũ Lão, Ninh Hoà 582 Trần Quý Cáp,Nha Trang
+Khanh Phong,280000,38 chỗ ngồi,22:10,24-05-2024,25-05-2024,03:35,5 giờ 25 phút,"Văn Phòng Phạm Ngũ Lão - Quận 1 Số 293 Phạm Ngũ Lão, P.Phạm Ngũ Lão","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Xe Nha,280000,40 chỗ ngồi,22:10,24-05-2024,25-05-2024,06:10,8 giờ ,Văn phòng Quận 1 317 Đường Phạm Ngũ Lão,Ninh Hòa QL1A QL1A,Nha Trang
+Hong Son (Phu Yen),400000,22 chỗ ngồi,22:13,24-05-2024,25-05-2024,07:33,9 giờ 20 phút,Cây xăng Comeco số 3 Hàng Xanh 490f Điện Biên Phủ,Ninh Hòa QL1A QL1A,Nha Trang
+Hanh Cafe,300000,34 chỗ ngồi,22:15,24-05-2024,25-05-2024,06:15,8 giờ ,VP Sài Gòn 273 Phạm Ngũ Lão,VP Nha Trang 1 106 Phong Châu,Nha Trang
+Khanh Phong,480000,21 chỗ ngồi,22:15,24-05-2024,25-05-2024,03:40,5 giờ 25 phút,"Văn Phòng Phạm Ngũ Lão - Quận 1 Số 293 Phạm Ngũ Lão, P.Phạm Ngũ Lão","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Phuong Nam,260000,40 chỗ ngồi,22:15,24-05-2024,25-05-2024,08:07,9 giờ 52 phút,Văn phòng Quận 1 B 275E Phạm Ngũ Lão,"Ngã 3 trong 658 Trần Quý Cáp, TT. Ninh Hòa, Ninh Hòa, Khánh Hòa",Nha Trang
+Phuong Nam,260000,40 chỗ ngồi,22:15,24-05-2024,25-05-2024,08:32,10 giờ 17 phút,Văn phòng Quận 1 B 275E Phạm Ngũ Lão,Vòng xoay Ninh Diêm B 5 Lê Hồng Phong,Nha Trang
+Huynh Gia,300000,34 chỗ ngồi,22:20,24-05-2024,25-05-2024,05:20,7 giờ ,VP Phạm Ngũ Lão 275H Phạm Ngũ Lão,Văn Phòng Nha Trang  16-18 Nguyễn Chánh,Nha Trang
+Huynh Gia,300000,34 chỗ ngồi,22:20,24-05-2024,25-05-2024,05:50,7 giờ 30 phút,VP Phạm Ngũ Lão 275H Phạm Ngũ Lão, Ninh Hoà 582 Trần Quý Cáp,Nha Trang
+Khanh Phong,280000,38 chỗ ngồi,22:20,24-05-2024,25-05-2024,03:35,5 giờ 15 phút,"Nhà chờ Phương Trang (Đường Mai Chí Thọ) Đường Mai Chí Thọ, Phường An Lợi Đông","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Khanh Phong,320000,32 chỗ ngồi,22:20,24-05-2024,25-05-2024,03:45,5 giờ 25 phút,"Văn Phòng Phạm Ngũ Lão - Quận 1 Số 293 Phạm Ngũ Lão, P.Phạm Ngũ Lão","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Tra Lan Vien,270000,42 chỗ ngồi,22:20,24-05-2024,25-05-2024,07:20,9 giờ ,Vp. Quận 1 227 Phạm Ngũ Lão,Trạm Nha Trang Đường 04 (Khu Đô thị Hà Quang 2),Nha Trang
+Xe Nha,480000,22 chỗ ngồi,22:20,24-05-2024,25-05-2024,06:20,8 giờ ,Văn phòng Quận 1 317 Đường Phạm Ngũ Lão,Ninh Hòa QL1A QL1A,Nha Trang
+Hong Son (Phu Yen),400000,22 chỗ ngồi,22:23,24-05-2024,25-05-2024,07:33,9 giờ 10 phút,Ngã Tư Thủ Đức Xa lộ Hà Nội,Ninh Hòa QL1A QL1A,Nha Trang
+Khanh Phong,480000,21 chỗ ngồi,22:25,24-05-2024,25-05-2024,03:40,5 giờ 15 phút,"Nhà chờ Phương Trang (Đường Mai Chí Thọ) Đường Mai Chí Thọ, Phường An Lợi Đông","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Cuc Tung,450000,21 chỗ ngồi,22:30,24-05-2024,25-05-2024,06:50,8 giờ 20 phút,"Bến xe Miền Đông mới A Số 501, đường Hoàng Hữu Nam","Bến Xe Phía Nam Nha Trang Km số 6, đường 23/10, TP. Nha Trang, Khánh Hòa",Nha Trang
+Khanh Phong,280000,38 chỗ ngồi,22:30,24-05-2024,25-05-2024,03:55,5 giờ 25 phút,"Văn Phòng Phạm Ngũ Lão - Quận 1 Số 293 Phạm Ngũ Lão, P.Phạm Ngũ Lão","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Khanh Phong,320000,32 chỗ ngồi,22:30,24-05-2024,25-05-2024,03:45,5 giờ 15 phút,"Nhà chờ Phương Trang (Đường Mai Chí Thọ) Đường Mai Chí Thọ, Phường An Lợi Đông","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Lien Hung,440000,22 chỗ ngồi,22:30,24-05-2024,25-05-2024,07:00,8 giờ 30 phút,"Ngã 4 An Sương Siêu thị đá Granite & Marble Tây Nam, 2555 QL1A, Khu Phố 3","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Tra Lan Vien,300000,36 chỗ ngồi,22:30,24-05-2024,25-05-2024,07:30,9 giờ ,Vp. Quận 1 227 Phạm Ngũ Lão,Trạm Nha Trang Đường 04 (Khu Đô thị Hà Quang 2),Nha Trang
+Khanh Phong,280000,38 chỗ ngồi,22:40,24-05-2024,25-05-2024,03:55,5 giờ 15 phút,"Nhà chờ Phương Trang (Đường Mai Chí Thọ) Đường Mai Chí Thọ, Phường An Lợi Đông","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Khanh Phong,480000,21 chỗ ngồi,22:40,24-05-2024,25-05-2024,04:05,5 giờ 25 phút,"Văn Phòng Phạm Ngũ Lão - Quận 1 Số 293 Phạm Ngũ Lão, P.Phạm Ngũ Lão","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Tra Lan Vien,420000,22 chỗ ngồi,22:40,24-05-2024,25-05-2024,07:40,9 giờ ,Vp. Quận 1 227 Phạm Ngũ Lão,Trạm Nha Trang Đường 04 (Khu Đô thị Hà Quang 2),Nha Trang
+Tra Lan Vien,470000,22 chỗ ngồi,22:40,24-05-2024,25-05-2024,07:40,9 giờ ,Vp. Quận 1 227 Phạm Ngũ Lão,Trạm Nha Trang Đường 04 (Khu Đô thị Hà Quang 2),Nha Trang
+Huynh Gia,280000,38 chỗ ngồi,22:45,24-05-2024,25-05-2024,06:00,7 giờ 15 phút,VP Phạm Ngũ Lão 275H Phạm Ngũ Lão, Ninh Hoà 582 Trần Quý Cáp,Nha Trang
+Khanh Phong,480000,21 chỗ ngồi,22:50,24-05-2024,25-05-2024,04:05,5 giờ 15 phút,"Nhà chờ Phương Trang (Đường Mai Chí Thọ) Đường Mai Chí Thọ, Phường An Lợi Đông","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Tra Lan Vien,420000,22 chỗ ngồi,22:50,24-05-2024,25-05-2024,07:50,9 giờ ,Vp. Quận 1 227 Phạm Ngũ Lão,Trạm Nha Trang Đường 04 (Khu Đô thị Hà Quang 2),Nha Trang
+Tra Lan Vien,470000,22 chỗ ngồi,22:50,24-05-2024,25-05-2024,07:50,9 giờ ,Vp. Quận 1 227 Phạm Ngũ Lão,Trạm Nha Trang Đường 04 (Khu Đô thị Hà Quang 2),Nha Trang
+Khanh Phong,320000,32 chỗ ngồi,22:51,24-05-2024,25-05-2024,04:16,5 giờ 25 phút,"Văn Phòng Phạm Ngũ Lão - Quận 1 Số 293 Phạm Ngũ Lão, P.Phạm Ngũ Lão","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Huynh Gia,480000,21 chỗ ngồi,23:00,24-05-2024,25-05-2024,06:00,7 giờ ,VP Phạm Ngũ Lão 275H Phạm Ngũ Lão,Văn Phòng Nha Trang  16-18 Nguyễn Chánh,Nha Trang
+Huynh Gia,480000,21 chỗ ngồi,23:00,24-05-2024,25-05-2024,06:30,7 giờ 30 phút,VP Phạm Ngũ Lão 275H Phạm Ngũ Lão, Ninh Hoà 582 Trần Quý Cáp,Nha Trang
+Khanh Phong,480000,21 chỗ ngồi,23:00,24-05-2024,25-05-2024,04:25,5 giờ 25 phút,"Văn Phòng Phạm Ngũ Lão - Quận 1 Số 293 Phạm Ngũ Lão, P.Phạm Ngũ Lão","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Khanh Phong,320000,32 chỗ ngồi,23:01,24-05-2024,25-05-2024,04:16,5 giờ 15 phút,"Nhà chờ Phương Trang (Đường Mai Chí Thọ) Đường Mai Chí Thọ, Phường An Lợi Đông","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Khanh Phong,480000,21 chỗ ngồi,23:05,24-05-2024,25-05-2024,04:30,5 giờ 25 phút,"Văn Phòng Phạm Ngũ Lão - Quận 1 Số 293 Phạm Ngũ Lão, P.Phạm Ngũ Lão","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Khanh Phong,480000,21 chỗ ngồi,23:10,24-05-2024,25-05-2024,04:25,5 giờ 15 phút,"Nhà chờ Phương Trang (Đường Mai Chí Thọ) Đường Mai Chí Thọ, Phường An Lợi Đông","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Khanh Phong,480000,21 chỗ ngồi,23:10,24-05-2024,25-05-2024,04:35,5 giờ 25 phút,"Văn Phòng Phạm Ngũ Lão - Quận 1 Số 293 Phạm Ngũ Lão, P.Phạm Ngũ Lão","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Khanh Phong,480000,21 chỗ ngồi,23:15,24-05-2024,25-05-2024,04:40,5 giờ 25 phút,"Văn Phòng Phạm Ngũ Lão - Quận 1 Số 293 Phạm Ngũ Lão, P.Phạm Ngũ Lão","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang
+Khanh Phong,480000,21 chỗ ngồi,23:20,24-05-2024,25-05-2024,04:35,5 giờ 15 phút,"Nhà chờ Phương Trang (Đường Mai Chí Thọ) Đường Mai Chí Thọ, Phường An Lợi Đông","Bưu điện Cam Lâm QL 1, T.T Cam Đức",Nha Trang

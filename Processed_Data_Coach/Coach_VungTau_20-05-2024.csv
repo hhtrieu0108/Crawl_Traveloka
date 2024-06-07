@@ -1,0 +1,529 @@
+brand,price,number_of_seat,start_time,start_day,end_day,end_time,trip_time,take_place,destination,location
+Hoa Mai,150000,15 chỗ ngồi,05:30,20-05-2024,20-05-2024,07:10,1 giờ 40 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,05:30,20-05-2024,20-05-2024,07:55,2 giờ 25 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,05:30,20-05-2024,20-05-2024,06:50,1 giờ 20 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,05:30,20-05-2024,20-05-2024,07:05,1 giờ 35 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh","Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,05:30,20-05-2024,20-05-2024,07:35,2 giờ 5 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,06:00,20-05-2024,20-05-2024,07:40,1 giờ 40 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,06:00,20-05-2024,20-05-2024,07:55,1 giờ 55 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,06:00,20-05-2024,20-05-2024,08:25,2 giờ 25 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,06:00,20-05-2024,20-05-2024,07:20,1 giờ 20 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,06:00,20-05-2024,20-05-2024,07:35,1 giờ 35 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh","Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,06:00,20-05-2024,20-05-2024,08:05,2 giờ 5 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,06:00,20-05-2024,20-05-2024,07:10,1 giờ 10 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,06:00,20-05-2024,20-05-2024,07:55,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,06:00,20-05-2024,20-05-2024,07:55,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,06:00,20-05-2024,20-05-2024,08:15,2 giờ 15 phút,"Bến xe Miền Tây Quầy vé số 12, BXMT 395 Kinh Dương Vương, An Lạc
+Xem trên bản đồ","Văn phòng Hoa Mai Long Hải khu phố Hải An, đường Võ thị Sáu, tt.Long Hải, huyện Long Điền",Vũng Tàu
+Huy Hoang-Vung Tau,190000,9 chỗ ngồi,06:00,20-05-2024,20-05-2024,08:45,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Huy Hoang-Vung Tau,200000,9 chỗ ngồi,06:00,20-05-2024,20-05-2024,08:45,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,06:15,20-05-2024,20-05-2024,09:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,06:15,20-05-2024,20-05-2024,09:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,250000,9 chỗ ngồi,06:15,20-05-2024,20-05-2024,09:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,06:30,20-05-2024,20-05-2024,08:10,1 giờ 40 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,06:30,20-05-2024,20-05-2024,08:55,2 giờ 25 phút,"Bến xe Miền Tây Quầy vé số 12, BXMT 395 Kinh Dương Vương, An Lạc
+Xem trên bản đồ",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,06:30,20-05-2024,20-05-2024,07:40,1 giờ 10 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,06:30,20-05-2024,20-05-2024,08:25,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Huy Hoang-Vung Tau,190000,9 chỗ ngồi,06:30,20-05-2024,20-05-2024,09:15,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Huy Hoang-Vung Tau,200000,9 chỗ ngồi,06:30,20-05-2024,20-05-2024,09:15,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Thanh Vinh - Vung Tau,190000,9 chỗ ngồi,06:30,20-05-2024,20-05-2024,09:00,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Thanh Vinh - Vung Tau,200000,9 chỗ ngồi,06:30,20-05-2024,20-05-2024,09:00,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,07:00,20-05-2024,20-05-2024,09:25,2 giờ 25 phút,"Bến xe Miền Tây Quầy vé số 12, BXMT 395 Kinh Dương Vương, An Lạc
+Xem trên bản đồ",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,07:00,20-05-2024,20-05-2024,09:25,2 giờ 25 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,07:00,20-05-2024,20-05-2024,08:20,1 giờ 20 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,07:00,20-05-2024,20-05-2024,08:35,1 giờ 35 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh","Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,07:00,20-05-2024,20-05-2024,09:05,2 giờ 5 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,07:00,20-05-2024,20-05-2024,08:10,1 giờ 10 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,07:00,20-05-2024,20-05-2024,08:35,1 giờ 35 phút,Văn phòng quận 5 269 Hùng Vương,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,07:00,20-05-2024,20-05-2024,08:50,1 giờ 50 phút,Văn phòng quận 5 269 Hùng Vương,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,07:00,20-05-2024,20-05-2024,08:55,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,07:00,20-05-2024,20-05-2024,08:55,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,07:00,20-05-2024,20-05-2024,09:02,2 giờ 2 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,07:00,20-05-2024,20-05-2024,09:15,2 giờ 15 phút,"Bến xe Miền Tây Quầy vé số 12, BXMT 395 Kinh Dương Vương, An Lạc
+Xem trên bản đồ","Văn phòng Hoa Mai Long Hải khu phố Hải An, đường Võ thị Sáu, tt.Long Hải, huyện Long Điền",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,07:00,20-05-2024,20-05-2024,09:20,2 giờ 20 phút,Văn phòng quận 5 269 Hùng Vương,Nội thành Vũng Tàu Ba Ria - Vung Tau,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,07:00,20-05-2024,20-05-2024,09:37,2 giờ 37 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Huy Hoang-Vung Tau,190000,9 chỗ ngồi,07:00,20-05-2024,20-05-2024,09:45,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Huy Hoang-Vung Tau,200000,9 chỗ ngồi,07:00,20-05-2024,20-05-2024,09:45,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Thanh Vinh - Vung Tau,190000,9 chỗ ngồi,07:00,20-05-2024,20-05-2024,09:30,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Thanh Vinh - Vung Tau,200000,9 chỗ ngồi,07:00,20-05-2024,20-05-2024,09:30,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,07:15,20-05-2024,20-05-2024,10:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,07:15,20-05-2024,20-05-2024,10:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,250000,9 chỗ ngồi,07:15,20-05-2024,20-05-2024,10:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,07:30,20-05-2024,20-05-2024,09:10,1 giờ 40 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,07:30,20-05-2024,20-05-2024,09:25,1 giờ 55 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,07:30,20-05-2024,20-05-2024,09:55,2 giờ 25 phút,"Bến xe Miền Tây Quầy vé số 12, BXMT 395 Kinh Dương Vương, An Lạc
+Xem trên bản đồ",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,07:30,20-05-2024,20-05-2024,08:40,1 giờ 10 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,07:30,20-05-2024,20-05-2024,09:25,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,07:30,20-05-2024,20-05-2024,09:32,2 giờ 2 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,07:30,20-05-2024,20-05-2024,10:07,2 giờ 37 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Thanh Vinh - Vung Tau,190000,9 chỗ ngồi,07:30,20-05-2024,20-05-2024,10:00,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Thanh Vinh - Vung Tau,200000,9 chỗ ngồi,07:30,20-05-2024,20-05-2024,10:00,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Vie Limousine,190000,9 chỗ ngồi,07:30,20-05-2024,20-05-2024,09:30,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,07:30,20-05-2024,20-05-2024,09:30,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,07:30,20-05-2024,20-05-2024,09:30,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,07:32,20-05-2024,20-05-2024,09:02,1 giờ 30 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,07:32,20-05-2024,20-05-2024,09:17,1 giờ 45 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,08:00,20-05-2024,20-05-2024,09:40,1 giờ 40 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,08:00,20-05-2024,20-05-2024,09:55,1 giờ 55 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,08:00,20-05-2024,20-05-2024,10:25,2 giờ 25 phút,"Bến xe Miền Tây Quầy vé số 12, BXMT 395 Kinh Dương Vương, An Lạc
+Xem trên bản đồ",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,08:00,20-05-2024,20-05-2024,10:25,2 giờ 25 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,08:00,20-05-2024,20-05-2024,09:20,1 giờ 20 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,08:00,20-05-2024,20-05-2024,09:35,1 giờ 35 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh","Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,08:00,20-05-2024,20-05-2024,10:05,2 giờ 5 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,08:00,20-05-2024,20-05-2024,09:10,1 giờ 10 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,08:00,20-05-2024,20-05-2024,09:35,1 giờ 35 phút,Văn phòng quận 5 269 Hùng Vương,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,08:00,20-05-2024,20-05-2024,09:50,1 giờ 50 phút,Văn phòng quận 5 269 Hùng Vương,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,08:00,20-05-2024,20-05-2024,09:55,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,08:00,20-05-2024,20-05-2024,09:55,1 giờ 55 phút,"Bến xe Miền Tây Quầy vé số 12, BXMT 395 Kinh Dương Vương, An Lạc
+Xem trên bản đồ",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,08:00,20-05-2024,20-05-2024,09:55,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,08:00,20-05-2024,20-05-2024,10:02,2 giờ 2 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,08:00,20-05-2024,20-05-2024,10:15,2 giờ 15 phút,"Bến xe Miền Tây Quầy vé số 12, BXMT 395 Kinh Dương Vương, An Lạc
+Xem trên bản đồ","Văn phòng Hoa Mai Long Hải khu phố Hải An, đường Võ thị Sáu, tt.Long Hải, huyện Long Điền",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,08:00,20-05-2024,20-05-2024,10:20,2 giờ 20 phút,Văn phòng quận 5 269 Hùng Vương,Nội thành Vũng Tàu Ba Ria - Vung Tau,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,08:00,20-05-2024,20-05-2024,10:37,2 giờ 37 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Huy Hoang-Vung Tau,190000,9 chỗ ngồi,08:00,20-05-2024,20-05-2024,10:45,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Huy Hoang-Vung Tau,200000,9 chỗ ngồi,08:00,20-05-2024,20-05-2024,10:45,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Vie Limousine,190000,9 chỗ ngồi,08:00,20-05-2024,20-05-2024,10:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,08:00,20-05-2024,20-05-2024,10:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,08:00,20-05-2024,20-05-2024,10:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,08:02,20-05-2024,20-05-2024,09:47,1 giờ 45 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,08:30,20-05-2024,20-05-2024,10:10,1 giờ 40 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,08:30,20-05-2024,20-05-2024,10:25,1 giờ 55 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,08:30,20-05-2024,20-05-2024,10:55,2 giờ 25 phút,"Bến xe Miền Tây Quầy vé số 12, BXMT 395 Kinh Dương Vương, An Lạc
+Xem trên bản đồ",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,08:30,20-05-2024,20-05-2024,10:32,2 giờ 2 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,08:30,20-05-2024,20-05-2024,11:07,2 giờ 37 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Huy Hoang-Vung Tau,190000,9 chỗ ngồi,08:30,20-05-2024,20-05-2024,11:15,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Huy Hoang-Vung Tau,200000,9 chỗ ngồi,08:30,20-05-2024,20-05-2024,11:15,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,08:32,20-05-2024,20-05-2024,10:02,1 giờ 30 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,08:32,20-05-2024,20-05-2024,10:17,1 giờ 45 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,09:00,20-05-2024,20-05-2024,10:40,1 giờ 40 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,09:00,20-05-2024,20-05-2024,10:55,1 giờ 55 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,09:00,20-05-2024,20-05-2024,11:25,2 giờ 25 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,09:00,20-05-2024,20-05-2024,10:20,1 giờ 20 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,09:00,20-05-2024,20-05-2024,10:35,1 giờ 35 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh","Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,09:00,20-05-2024,20-05-2024,11:05,2 giờ 5 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,09:00,20-05-2024,20-05-2024,10:10,1 giờ 10 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,09:00,20-05-2024,20-05-2024,10:35,1 giờ 35 phút,Văn phòng quận 5 269 Hùng Vương,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,09:00,20-05-2024,20-05-2024,10:50,1 giờ 50 phút,Văn phòng quận 5 269 Hùng Vương,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,09:00,20-05-2024,20-05-2024,10:55,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,09:00,20-05-2024,20-05-2024,10:55,1 giờ 55 phút,"Bến xe Miền Tây Quầy vé số 12, BXMT 395 Kinh Dương Vương, An Lạc
+Xem trên bản đồ",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,09:00,20-05-2024,20-05-2024,11:02,2 giờ 2 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,09:00,20-05-2024,20-05-2024,11:20,2 giờ 20 phút,Văn phòng quận 5 269 Hùng Vương,Nội thành Vũng Tàu Ba Ria - Vung Tau,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,09:00,20-05-2024,20-05-2024,11:37,2 giờ 37 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Huy Hoang-Vung Tau,190000,9 chỗ ngồi,09:00,20-05-2024,20-05-2024,11:45,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Huy Hoang-Vung Tau,200000,9 chỗ ngồi,09:00,20-05-2024,20-05-2024,11:45,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Vie Limousine,190000,9 chỗ ngồi,09:00,20-05-2024,20-05-2024,11:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,09:00,20-05-2024,20-05-2024,11:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,09:00,20-05-2024,20-05-2024,11:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,09:02,20-05-2024,20-05-2024,10:32,1 giờ 30 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,09:02,20-05-2024,20-05-2024,10:47,1 giờ 45 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,09:15,20-05-2024,20-05-2024,12:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,09:15,20-05-2024,20-05-2024,12:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,250000,9 chỗ ngồi,09:15,20-05-2024,20-05-2024,12:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+AVIGO,200000,18 chỗ ngồi,09:30,20-05-2024,20-05-2024,11:20,1 giờ 50 phút,Sân Bay Tân Sơn Nhất  Cột số 2 - Ga quốc nội,Văn Phòng Vũng Tàu 02 Nguyễn Du,Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,09:30,20-05-2024,20-05-2024,11:10,1 giờ 40 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,09:30,20-05-2024,20-05-2024,11:55,2 giờ 25 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,09:30,20-05-2024,20-05-2024,10:40,1 giờ 10 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,09:30,20-05-2024,20-05-2024,11:25,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,09:30,20-05-2024,20-05-2024,11:32,2 giờ 2 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,09:30,20-05-2024,20-05-2024,12:07,2 giờ 37 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Huy Hoang-Vung Tau,190000,9 chỗ ngồi,09:30,20-05-2024,20-05-2024,12:15,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Huy Hoang-Vung Tau,200000,9 chỗ ngồi,09:30,20-05-2024,20-05-2024,12:15,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Thanh Vinh - Vung Tau,190000,9 chỗ ngồi,09:30,20-05-2024,20-05-2024,12:00,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Thanh Vinh - Vung Tau,200000,9 chỗ ngồi,09:30,20-05-2024,20-05-2024,12:00,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,09:32,20-05-2024,20-05-2024,11:02,1 giờ 30 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,09:32,20-05-2024,20-05-2024,11:17,1 giờ 45 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,10:00,20-05-2024,20-05-2024,11:40,1 giờ 40 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,10:00,20-05-2024,20-05-2024,11:55,1 giờ 55 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,10:00,20-05-2024,20-05-2024,12:25,2 giờ 25 phút,"Bến xe Miền Tây Quầy vé số 12, BXMT 395 Kinh Dương Vương, An Lạc
+Xem trên bản đồ",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,10:00,20-05-2024,20-05-2024,12:25,2 giờ 25 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,10:00,20-05-2024,20-05-2024,11:20,1 giờ 20 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,10:00,20-05-2024,20-05-2024,11:35,1 giờ 35 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh","Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,10:00,20-05-2024,20-05-2024,12:05,2 giờ 5 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,10:00,20-05-2024,20-05-2024,11:35,1 giờ 35 phút,Văn phòng quận 5 269 Hùng Vương,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,10:00,20-05-2024,20-05-2024,11:50,1 giờ 50 phút,Văn phòng quận 5 269 Hùng Vương,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,10:00,20-05-2024,20-05-2024,11:55,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,10:00,20-05-2024,20-05-2024,11:55,1 giờ 55 phút,"Bến xe Miền Tây Quầy vé số 12, BXMT 395 Kinh Dương Vương, An Lạc
+Xem trên bản đồ",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,10:00,20-05-2024,20-05-2024,11:55,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,10:00,20-05-2024,20-05-2024,12:02,2 giờ 2 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,10:00,20-05-2024,20-05-2024,12:15,2 giờ 15 phút,"Bến xe Miền Tây Quầy vé số 12, BXMT 395 Kinh Dương Vương, An Lạc
+Xem trên bản đồ","Văn phòng Hoa Mai Long Hải khu phố Hải An, đường Võ thị Sáu, tt.Long Hải, huyện Long Điền",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,10:00,20-05-2024,20-05-2024,12:20,2 giờ 20 phút,Văn phòng quận 5 269 Hùng Vương,Nội thành Vũng Tàu Ba Ria - Vung Tau,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,10:00,20-05-2024,20-05-2024,12:37,2 giờ 37 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Huy Hoang-Vung Tau,190000,9 chỗ ngồi,10:00,20-05-2024,20-05-2024,12:45,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Huy Hoang-Vung Tau,200000,9 chỗ ngồi,10:00,20-05-2024,20-05-2024,12:45,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Thanh Vinh - Vung Tau,190000,9 chỗ ngồi,10:00,20-05-2024,20-05-2024,12:30,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Thanh Vinh - Vung Tau,200000,9 chỗ ngồi,10:00,20-05-2024,20-05-2024,12:30,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Vie Limousine,190000,9 chỗ ngồi,10:00,20-05-2024,20-05-2024,12:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,10:00,20-05-2024,20-05-2024,12:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,10:00,20-05-2024,20-05-2024,12:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,10:02,20-05-2024,20-05-2024,11:32,1 giờ 30 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,10:02,20-05-2024,20-05-2024,11:47,1 giờ 45 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,10:15,20-05-2024,20-05-2024,13:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,10:15,20-05-2024,20-05-2024,13:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,250000,9 chỗ ngồi,10:15,20-05-2024,20-05-2024,13:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+AVIGO,200000,10 chỗ ngồi,10:30,20-05-2024,20-05-2024,12:20,1 giờ 50 phút,Sân Bay Tân Sơn Nhất  Cột số 2 - Ga quốc nội,Văn Phòng Vũng Tàu 02 Nguyễn Du,Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,10:30,20-05-2024,20-05-2024,12:55,2 giờ 25 phút,"Bến xe Miền Tây Quầy vé số 12, BXMT 395 Kinh Dương Vương, An Lạc
+Xem trên bản đồ",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,10:30,20-05-2024,20-05-2024,12:55,2 giờ 25 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,10:30,20-05-2024,20-05-2024,11:40,1 giờ 10 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,10:30,20-05-2024,20-05-2024,12:25,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,10:30,20-05-2024,20-05-2024,12:32,2 giờ 2 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,10:30,20-05-2024,20-05-2024,13:07,2 giờ 37 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Thanh Vinh - Vung Tau,190000,9 chỗ ngồi,10:30,20-05-2024,20-05-2024,13:00,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Thanh Vinh - Vung Tau,200000,9 chỗ ngồi,10:30,20-05-2024,20-05-2024,13:00,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Vie Limousine,190000,9 chỗ ngồi,10:30,20-05-2024,20-05-2024,12:30,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,190000,9 chỗ ngồi,10:30,20-05-2024,20-05-2024,12:30,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,10:30,20-05-2024,20-05-2024,12:30,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,10:32,20-05-2024,20-05-2024,12:02,1 giờ 30 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,10:32,20-05-2024,20-05-2024,12:17,1 giờ 45 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,11:00,20-05-2024,20-05-2024,12:40,1 giờ 40 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,11:00,20-05-2024,20-05-2024,12:55,1 giờ 55 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,11:00,20-05-2024,20-05-2024,13:25,2 giờ 25 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,11:00,20-05-2024,20-05-2024,12:20,1 giờ 20 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,11:00,20-05-2024,20-05-2024,12:35,1 giờ 35 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh","Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,11:00,20-05-2024,20-05-2024,13:05,2 giờ 5 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,11:00,20-05-2024,20-05-2024,12:10,1 giờ 10 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,11:00,20-05-2024,20-05-2024,12:35,1 giờ 35 phút,Văn phòng quận 5 269 Hùng Vương,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,11:00,20-05-2024,20-05-2024,12:50,1 giờ 50 phút,Văn phòng quận 5 269 Hùng Vương,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,11:00,20-05-2024,20-05-2024,12:55,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,11:00,20-05-2024,20-05-2024,12:55,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,11:00,20-05-2024,20-05-2024,13:02,2 giờ 2 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,11:00,20-05-2024,20-05-2024,13:15,2 giờ 15 phút,"Bến xe Miền Tây Quầy vé số 12, BXMT 395 Kinh Dương Vương, An Lạc
+Xem trên bản đồ","Văn phòng Hoa Mai Long Hải khu phố Hải An, đường Võ thị Sáu, tt.Long Hải, huyện Long Điền",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,11:00,20-05-2024,20-05-2024,13:20,2 giờ 20 phút,Văn phòng quận 5 269 Hùng Vương,Nội thành Vũng Tàu Ba Ria - Vung Tau,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,11:00,20-05-2024,20-05-2024,13:37,2 giờ 37 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Huy Hoang-Vung Tau,190000,9 chỗ ngồi,11:00,20-05-2024,20-05-2024,13:45,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Huy Hoang-Vung Tau,200000,9 chỗ ngồi,11:00,20-05-2024,20-05-2024,13:45,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Thanh Vinh - Vung Tau,190000,9 chỗ ngồi,11:00,20-05-2024,20-05-2024,13:30,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Thanh Vinh - Vung Tau,200000,9 chỗ ngồi,11:00,20-05-2024,20-05-2024,13:30,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,11:02,20-05-2024,20-05-2024,12:32,1 giờ 30 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,11:02,20-05-2024,20-05-2024,12:47,1 giờ 45 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,11:15,20-05-2024,20-05-2024,14:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,11:15,20-05-2024,20-05-2024,14:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,250000,9 chỗ ngồi,11:15,20-05-2024,20-05-2024,14:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+AVIGO,180000,16 chỗ ngồi,11:30,20-05-2024,20-05-2024,13:20,1 giờ 50 phút,Sân Bay Tân Sơn Nhất  Cột số 2 - Ga quốc nội,Văn Phòng Vũng Tàu 02 Nguyễn Du,Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,11:30,20-05-2024,20-05-2024,13:55,2 giờ 25 phút,"Bến xe Miền Tây Quầy vé số 12, BXMT 395 Kinh Dương Vương, An Lạc
+Xem trên bản đồ",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,11:30,20-05-2024,20-05-2024,13:55,2 giờ 25 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,11:30,20-05-2024,20-05-2024,12:40,1 giờ 10 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,11:30,20-05-2024,20-05-2024,13:25,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,11:30,20-05-2024,20-05-2024,14:07,2 giờ 37 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Vie Limousine,190000,9 chỗ ngồi,11:30,20-05-2024,20-05-2024,13:30,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,11:30,20-05-2024,20-05-2024,13:30,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,11:30,20-05-2024,20-05-2024,13:30,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,11:32,20-05-2024,20-05-2024,13:17,1 giờ 45 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,12:00,20-05-2024,20-05-2024,13:40,1 giờ 40 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,12:00,20-05-2024,20-05-2024,13:55,1 giờ 55 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,12:00,20-05-2024,20-05-2024,14:25,2 giờ 25 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,12:00,20-05-2024,20-05-2024,13:20,1 giờ 20 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,12:00,20-05-2024,20-05-2024,13:35,1 giờ 35 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh","Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,12:00,20-05-2024,20-05-2024,14:05,2 giờ 5 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,12:00,20-05-2024,20-05-2024,13:10,1 giờ 10 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,12:00,20-05-2024,20-05-2024,13:35,1 giờ 35 phút,Văn phòng quận 5 269 Hùng Vương,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,12:00,20-05-2024,20-05-2024,13:50,1 giờ 50 phút,Văn phòng quận 5 269 Hùng Vương,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,12:00,20-05-2024,20-05-2024,13:55,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,12:00,20-05-2024,20-05-2024,13:55,1 giờ 55 phút,"Bến xe Miền Tây Quầy vé số 12, BXMT 395 Kinh Dương Vương, An Lạc
+Xem trên bản đồ",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,12:00,20-05-2024,20-05-2024,13:55,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,12:00,20-05-2024,20-05-2024,14:15,2 giờ 15 phút,"Bến xe Miền Tây Quầy vé số 12, BXMT 395 Kinh Dương Vương, An Lạc
+Xem trên bản đồ","Văn phòng Hoa Mai Long Hải khu phố Hải An, đường Võ thị Sáu, tt.Long Hải, huyện Long Điền",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,12:00,20-05-2024,20-05-2024,14:20,2 giờ 20 phút,Văn phòng quận 5 269 Hùng Vương,Nội thành Vũng Tàu Ba Ria - Vung Tau,Vũng Tàu
+Thanh Vinh - Vung Tau,190000,9 chỗ ngồi,12:00,20-05-2024,20-05-2024,14:30,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Thanh Vinh - Vung Tau,200000,9 chỗ ngồi,12:00,20-05-2024,20-05-2024,14:30,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Vie Limousine,190000,9 chỗ ngồi,12:00,20-05-2024,20-05-2024,14:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,12:00,20-05-2024,20-05-2024,14:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,12:00,20-05-2024,20-05-2024,14:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,12:02,20-05-2024,20-05-2024,13:32,1 giờ 30 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,12:02,20-05-2024,20-05-2024,13:47,1 giờ 45 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,12:15,20-05-2024,20-05-2024,15:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,12:15,20-05-2024,20-05-2024,15:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,250000,9 chỗ ngồi,12:15,20-05-2024,20-05-2024,15:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,12:30,20-05-2024,20-05-2024,14:10,1 giờ 40 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,12:30,20-05-2024,20-05-2024,14:55,2 giờ 25 phút,"Bến xe Miền Tây Quầy vé số 12, BXMT 395 Kinh Dương Vương, An Lạc
+Xem trên bản đồ",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,12:30,20-05-2024,20-05-2024,13:40,1 giờ 10 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,12:30,20-05-2024,20-05-2024,14:25,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Thanh Vinh - Vung Tau,190000,9 chỗ ngồi,12:30,20-05-2024,20-05-2024,15:00,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Thanh Vinh - Vung Tau,200000,9 chỗ ngồi,12:30,20-05-2024,20-05-2024,15:00,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Vie Limousine,190000,9 chỗ ngồi,12:30,20-05-2024,20-05-2024,14:30,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,12:30,20-05-2024,20-05-2024,14:30,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,12:30,20-05-2024,20-05-2024,14:30,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,12:32,20-05-2024,20-05-2024,14:02,1 giờ 30 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,12:32,20-05-2024,20-05-2024,14:17,1 giờ 45 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+AVIGO,200000,18 chỗ ngồi,12:50,20-05-2024,20-05-2024,14:40,1 giờ 50 phút,Sân Bay Tân Sơn Nhất  Cột số 2 - Ga quốc nội,Văn Phòng Vũng Tàu 02 Nguyễn Du,Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,13:00,20-05-2024,20-05-2024,14:40,1 giờ 40 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,13:00,20-05-2024,20-05-2024,15:25,2 giờ 25 phút,"Bến xe Miền Tây Quầy vé số 12, BXMT 395 Kinh Dương Vương, An Lạc
+Xem trên bản đồ",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,13:00,20-05-2024,20-05-2024,15:25,2 giờ 25 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,13:00,20-05-2024,20-05-2024,14:20,1 giờ 20 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,13:00,20-05-2024,20-05-2024,14:35,1 giờ 35 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh","Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,13:00,20-05-2024,20-05-2024,15:05,2 giờ 5 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,13:00,20-05-2024,20-05-2024,14:10,1 giờ 10 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,13:00,20-05-2024,20-05-2024,14:35,1 giờ 35 phút,Văn phòng quận 5 269 Hùng Vương,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,13:00,20-05-2024,20-05-2024,14:50,1 giờ 50 phút,Văn phòng quận 5 269 Hùng Vương,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,13:00,20-05-2024,20-05-2024,14:55,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,13:00,20-05-2024,20-05-2024,14:55,1 giờ 55 phút,"Bến xe Miền Tây Quầy vé số 12, BXMT 395 Kinh Dương Vương, An Lạc
+Xem trên bản đồ",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,13:00,20-05-2024,20-05-2024,14:55,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,13:00,20-05-2024,20-05-2024,15:15,2 giờ 15 phút,"Bến xe Miền Tây Quầy vé số 12, BXMT 395 Kinh Dương Vương, An Lạc
+Xem trên bản đồ","Văn phòng Hoa Mai Long Hải khu phố Hải An, đường Võ thị Sáu, tt.Long Hải, huyện Long Điền",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,13:00,20-05-2024,20-05-2024,15:20,2 giờ 20 phút,Văn phòng quận 5 269 Hùng Vương,Nội thành Vũng Tàu Ba Ria - Vung Tau,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,13:02,20-05-2024,20-05-2024,14:32,1 giờ 30 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,13:02,20-05-2024,20-05-2024,14:47,1 giờ 45 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,13:15,20-05-2024,20-05-2024,16:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,13:15,20-05-2024,20-05-2024,16:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,250000,9 chỗ ngồi,13:15,20-05-2024,20-05-2024,16:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,13:30,20-05-2024,20-05-2024,15:10,1 giờ 40 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,13:30,20-05-2024,20-05-2024,15:25,1 giờ 55 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,13:30,20-05-2024,20-05-2024,14:40,1 giờ 10 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,13:30,20-05-2024,20-05-2024,15:32,2 giờ 2 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,13:30,20-05-2024,20-05-2024,16:07,2 giờ 37 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Huy Hoang-Vung Tau,190000,9 chỗ ngồi,13:30,20-05-2024,20-05-2024,16:15,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Huy Hoang-Vung Tau,200000,9 chỗ ngồi,13:30,20-05-2024,20-05-2024,16:15,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,13:32,20-05-2024,20-05-2024,15:02,1 giờ 30 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+AVIGO,200000,18 chỗ ngồi,14:00,20-05-2024,20-05-2024,15:50,1 giờ 50 phút,Sân Bay Tân Sơn Nhất  Cột số 2 - Ga quốc nội,Văn Phòng Vũng Tàu 02 Nguyễn Du,Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,14:00,20-05-2024,20-05-2024,15:40,1 giờ 40 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,14:00,20-05-2024,20-05-2024,15:55,1 giờ 55 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,14:00,20-05-2024,20-05-2024,15:20,1 giờ 20 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,14:00,20-05-2024,20-05-2024,15:35,1 giờ 35 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh","Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,14:00,20-05-2024,20-05-2024,16:05,2 giờ 5 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,14:00,20-05-2024,20-05-2024,15:35,1 giờ 35 phút,Văn phòng quận 5 269 Hùng Vương,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,14:00,20-05-2024,20-05-2024,15:50,1 giờ 50 phút,Văn phòng quận 5 269 Hùng Vương,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,14:00,20-05-2024,20-05-2024,15:55,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,14:00,20-05-2024,20-05-2024,16:15,2 giờ 15 phút,"Bến xe Miền Tây Quầy vé số 12, BXMT 395 Kinh Dương Vương, An Lạc
+Xem trên bản đồ","Văn phòng Hoa Mai Long Hải khu phố Hải An, đường Võ thị Sáu, tt.Long Hải, huyện Long Điền",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,14:00,20-05-2024,20-05-2024,16:20,2 giờ 20 phút,Văn phòng quận 5 269 Hùng Vương,Nội thành Vũng Tàu Ba Ria - Vung Tau,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,14:00,20-05-2024,20-05-2024,16:37,2 giờ 37 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Huy Hoang-Vung Tau,190000,9 chỗ ngồi,14:00,20-05-2024,20-05-2024,16:45,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Huy Hoang-Vung Tau,200000,9 chỗ ngồi,14:00,20-05-2024,20-05-2024,16:45,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Vie Limousine,190000,9 chỗ ngồi,14:00,20-05-2024,20-05-2024,16:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,14:00,20-05-2024,20-05-2024,16:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,14:00,20-05-2024,20-05-2024,16:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,14:02,20-05-2024,20-05-2024,15:32,1 giờ 30 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,14:02,20-05-2024,20-05-2024,15:47,1 giờ 45 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,14:15,20-05-2024,20-05-2024,17:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,14:15,20-05-2024,20-05-2024,17:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,14:15,20-05-2024,20-05-2024,17:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,14:30,20-05-2024,20-05-2024,16:25,1 giờ 55 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,14:30,20-05-2024,20-05-2024,16:55,2 giờ 25 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,14:30,20-05-2024,20-05-2024,15:40,1 giờ 10 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,14:30,20-05-2024,20-05-2024,16:25,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,14:30,20-05-2024,20-05-2024,16:32,2 giờ 2 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Thanh Vinh - Vung Tau,190000,9 chỗ ngồi,14:30,20-05-2024,20-05-2024,17:00,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Thanh Vinh - Vung Tau,200000,9 chỗ ngồi,14:30,20-05-2024,20-05-2024,17:00,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,15:00,20-05-2024,20-05-2024,16:55,1 giờ 55 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,15:00,20-05-2024,20-05-2024,17:25,2 giờ 25 phút,"Bến xe Miền Tây Quầy vé số 12, BXMT 395 Kinh Dương Vương, An Lạc
+Xem trên bản đồ",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,15:00,20-05-2024,20-05-2024,17:25,2 giờ 25 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,15:00,20-05-2024,20-05-2024,16:20,1 giờ 20 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,15:00,20-05-2024,20-05-2024,16:35,1 giờ 35 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh","Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,15:00,20-05-2024,20-05-2024,17:05,2 giờ 5 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,15:00,20-05-2024,20-05-2024,16:10,1 giờ 10 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,15:00,20-05-2024,20-05-2024,16:35,1 giờ 35 phút,Văn phòng quận 5 269 Hùng Vương,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,15:00,20-05-2024,20-05-2024,16:50,1 giờ 50 phút,Văn phòng quận 5 269 Hùng Vương,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,15:00,20-05-2024,20-05-2024,16:55,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,15:00,20-05-2024,20-05-2024,17:02,2 giờ 2 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,15:00,20-05-2024,20-05-2024,17:15,2 giờ 15 phút,"Bến xe Miền Tây Quầy vé số 12, BXMT 395 Kinh Dương Vương, An Lạc
+Xem trên bản đồ","Văn phòng Hoa Mai Long Hải khu phố Hải An, đường Võ thị Sáu, tt.Long Hải, huyện Long Điền",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,15:00,20-05-2024,20-05-2024,17:20,2 giờ 20 phút,Văn phòng quận 5 269 Hùng Vương,Nội thành Vũng Tàu Ba Ria - Vung Tau,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,15:00,20-05-2024,20-05-2024,17:37,2 giờ 37 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Huy Hoang-Vung Tau,190000,9 chỗ ngồi,15:00,20-05-2024,20-05-2024,17:45,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Huy Hoang-Vung Tau,200000,9 chỗ ngồi,15:00,20-05-2024,20-05-2024,17:45,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Thanh Vinh - Vung Tau,190000,9 chỗ ngồi,15:00,20-05-2024,20-05-2024,17:30,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Thanh Vinh - Vung Tau,200000,9 chỗ ngồi,15:00,20-05-2024,20-05-2024,17:30,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Vie Limousine,190000,9 chỗ ngồi,15:00,20-05-2024,20-05-2024,17:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,15:00,20-05-2024,20-05-2024,17:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,15:00,20-05-2024,20-05-2024,17:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,15:15,20-05-2024,20-05-2024,18:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,15:15,20-05-2024,20-05-2024,18:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,250000,9 chỗ ngồi,15:15,20-05-2024,20-05-2024,18:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,15:30,20-05-2024,20-05-2024,17:10,1 giờ 40 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,15:30,20-05-2024,20-05-2024,17:25,1 giờ 55 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,15:30,20-05-2024,20-05-2024,16:40,1 giờ 10 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,15:30,20-05-2024,20-05-2024,17:25,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,15:30,20-05-2024,20-05-2024,17:25,1 giờ 55 phút,"Bến xe Miền Tây Quầy vé số 12, BXMT 395 Kinh Dương Vương, An Lạc
+Xem trên bản đồ",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,15:30,20-05-2024,20-05-2024,18:07,2 giờ 37 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Huy Hoang-Vung Tau,190000,9 chỗ ngồi,15:30,20-05-2024,20-05-2024,18:15,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Huy Hoang-Vung Tau,200000,9 chỗ ngồi,15:30,20-05-2024,20-05-2024,18:15,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Thanh Vinh - Vung Tau,190000,9 chỗ ngồi,15:30,20-05-2024,20-05-2024,18:00,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Thanh Vinh - Vung Tau,200000,9 chỗ ngồi,15:30,20-05-2024,20-05-2024,18:00,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,15:32,20-05-2024,20-05-2024,17:02,1 giờ 30 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,15:32,20-05-2024,20-05-2024,17:17,1 giờ 45 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,16:00,20-05-2024,20-05-2024,17:55,1 giờ 55 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,16:00,20-05-2024,20-05-2024,18:25,2 giờ 25 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,16:00,20-05-2024,20-05-2024,17:20,1 giờ 20 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,16:00,20-05-2024,20-05-2024,17:35,1 giờ 35 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh","Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,16:00,20-05-2024,20-05-2024,18:05,2 giờ 5 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,16:00,20-05-2024,20-05-2024,17:10,1 giờ 10 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,16:00,20-05-2024,20-05-2024,17:35,1 giờ 35 phút,Văn phòng quận 5 269 Hùng Vương,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,16:00,20-05-2024,20-05-2024,17:50,1 giờ 50 phút,Văn phòng quận 5 269 Hùng Vương,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,16:00,20-05-2024,20-05-2024,17:55,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,16:00,20-05-2024,20-05-2024,18:02,2 giờ 2 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,16:00,20-05-2024,20-05-2024,18:15,2 giờ 15 phút,"Bến xe Miền Tây Quầy vé số 12, BXMT 395 Kinh Dương Vương, An Lạc
+Xem trên bản đồ","Văn phòng Hoa Mai Long Hải khu phố Hải An, đường Võ thị Sáu, tt.Long Hải, huyện Long Điền",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,16:00,20-05-2024,20-05-2024,18:20,2 giờ 20 phút,Văn phòng quận 5 269 Hùng Vương,Nội thành Vũng Tàu Ba Ria - Vung Tau,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,16:00,20-05-2024,20-05-2024,18:37,2 giờ 37 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Huy Hoang-Vung Tau,190000,9 chỗ ngồi,16:00,20-05-2024,20-05-2024,18:45,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Huy Hoang-Vung Tau,200000,9 chỗ ngồi,16:00,20-05-2024,20-05-2024,18:45,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Thanh Vinh - Vung Tau,190000,9 chỗ ngồi,16:00,20-05-2024,20-05-2024,18:30,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Thanh Vinh - Vung Tau,200000,9 chỗ ngồi,16:00,20-05-2024,20-05-2024,18:30,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Vie Limousine,190000,9 chỗ ngồi,16:00,20-05-2024,20-05-2024,18:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,16:00,20-05-2024,20-05-2024,18:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,16:00,20-05-2024,20-05-2024,18:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,16:02,20-05-2024,20-05-2024,17:32,1 giờ 30 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,16:02,20-05-2024,20-05-2024,17:47,1 giờ 45 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,16:15,20-05-2024,20-05-2024,19:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,16:15,20-05-2024,20-05-2024,19:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,250000,9 chỗ ngồi,16:15,20-05-2024,20-05-2024,19:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,16:30,20-05-2024,20-05-2024,18:25,1 giờ 55 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,16:30,20-05-2024,20-05-2024,18:55,2 giờ 25 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,16:30,20-05-2024,20-05-2024,18:32,2 giờ 2 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Thanh Vinh - Vung Tau,190000,9 chỗ ngồi,16:30,20-05-2024,20-05-2024,19:00,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Thanh Vinh - Vung Tau,200000,9 chỗ ngồi,16:30,20-05-2024,20-05-2024,19:00,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,16:32,20-05-2024,20-05-2024,18:02,1 giờ 30 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,17:00,20-05-2024,20-05-2024,18:40,1 giờ 40 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,17:00,20-05-2024,20-05-2024,18:55,1 giờ 55 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,17:00,20-05-2024,20-05-2024,19:25,2 giờ 25 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,17:00,20-05-2024,20-05-2024,18:20,1 giờ 20 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,17:00,20-05-2024,20-05-2024,18:35,1 giờ 35 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh","Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,170000,9 chỗ ngồi,17:00,20-05-2024,20-05-2024,19:05,2 giờ 5 phút,"Bến Xe Miền Đông - Quầy vé số 84-85 Đối diện BX Miền Đông cũ, 387 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,17:00,20-05-2024,20-05-2024,18:10,1 giờ 10 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,17:00,20-05-2024,20-05-2024,18:35,1 giờ 35 phút,Văn phòng quận 5 269 Hùng Vương,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,17:00,20-05-2024,20-05-2024,18:50,1 giờ 50 phút,Văn phòng quận 5 269 Hùng Vương,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,17:00,20-05-2024,20-05-2024,18:55,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,17:00,20-05-2024,20-05-2024,18:55,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,17:00,20-05-2024,20-05-2024,19:02,2 giờ 2 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,17:00,20-05-2024,20-05-2024,19:15,2 giờ 15 phút,"Bến xe Miền Tây Quầy vé số 12, BXMT 395 Kinh Dương Vương, An Lạc
+Xem trên bản đồ","Văn phòng Hoa Mai Long Hải khu phố Hải An, đường Võ thị Sáu, tt.Long Hải, huyện Long Điền",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,17:00,20-05-2024,20-05-2024,19:20,2 giờ 20 phút,Văn phòng quận 5 269 Hùng Vương,Nội thành Vũng Tàu Ba Ria - Vung Tau,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,17:00,20-05-2024,20-05-2024,19:37,2 giờ 37 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Thanh Vinh - Vung Tau,190000,9 chỗ ngồi,17:00,20-05-2024,20-05-2024,19:30,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Thanh Vinh - Vung Tau,200000,9 chỗ ngồi,17:00,20-05-2024,20-05-2024,19:30,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Vie Limousine,190000,9 chỗ ngồi,17:00,20-05-2024,20-05-2024,19:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,17:00,20-05-2024,20-05-2024,19:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,17:00,20-05-2024,20-05-2024,19:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,17:02,20-05-2024,20-05-2024,18:32,1 giờ 30 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hong Son (Phu Yen),290000,34 chỗ ngồi,17:10,20-05-2024,20-05-2024,18:45,1 giờ 35 phút,Cầu vượt An Sương QL22,Chợ Mỹ Xuân Chợ Mỹ Xuân,Vũng Tàu
+Hong Son (Phu Yen),290000,34 chỗ ngồi,17:10,20-05-2024,20-05-2024,19:36,2 giờ 26 phút,Cầu vượt An Sương QL22,"Bến xe khách huyện Xuyên Mộc QL55, Phước Thuận, Xuyên Mộc, Bà Rịa - Vũng Tàu, Vietnam",Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,17:15,20-05-2024,20-05-2024,20:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,17:15,20-05-2024,20-05-2024,20:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,250000,9 chỗ ngồi,17:15,20-05-2024,20-05-2024,20:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,17:30,20-05-2024,20-05-2024,19:25,1 giờ 55 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,17:30,20-05-2024,20-05-2024,19:25,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,17:30,20-05-2024,20-05-2024,19:32,2 giờ 2 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,17:30,20-05-2024,20-05-2024,20:07,2 giờ 37 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hong Son (Phu Yen),290000,34 chỗ ngồi,17:30,20-05-2024,20-05-2024,19:15,1 giờ 45 phút,Cầu vượt Linh Xuân QL1A,"Chợ An Ngãi QL55, Ấp An Phước - Phước Lăng, An Ngãi, Long Điền, Bà Rịa - Vũng Tàu",Vũng Tàu
+Hong Son (Phu Yen),290000,34 chỗ ngồi,17:30,20-05-2024,20-05-2024,19:36,2 giờ 6 phút,Cầu vượt Linh Xuân QL1A,"Bến xe khách huyện Xuyên Mộc QL55, Phước Thuận, Xuyên Mộc, Bà Rịa - Vũng Tàu, Vietnam",Vũng Tàu
+Vie Limousine,190000,9 chỗ ngồi,17:30,20-05-2024,20-05-2024,19:30,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,17:30,20-05-2024,20-05-2024,19:30,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,17:30,20-05-2024,20-05-2024,19:30,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,17:32,20-05-2024,20-05-2024,19:02,1 giờ 30 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,18:00,20-05-2024,20-05-2024,19:40,1 giờ 40 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,18:00,20-05-2024,20-05-2024,19:55,1 giờ 55 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,"Bến xe Bà Rịa 1 QL51, Phước Hiệp, Tp.Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam
+Xem trên bản đồ",Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,18:00,20-05-2024,20-05-2024,20:25,2 giờ 25 phút,"Bến xe Miền Tây Quầy vé số 12, BXMT 395 Kinh Dương Vương, An Lạc
+Xem trên bản đồ",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,150000,15 chỗ ngồi,18:00,20-05-2024,20-05-2024,20:25,2 giờ 25 phút,Văn phòng quận 1A 44 Nguyễn Thái Bình,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,18:00,20-05-2024,20-05-2024,19:10,1 giờ 10 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C","Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,18:00,20-05-2024,20-05-2024,19:55,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,18:00,20-05-2024,20-05-2024,20:02,2 giờ 2 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,18:00,20-05-2024,20-05-2024,20:37,2 giờ 37 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Huy Hoang-Vung Tau,190000,9 chỗ ngồi,18:00,20-05-2024,20-05-2024,20:45,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Huy Hoang-Vung Tau,200000,9 chỗ ngồi,18:00,20-05-2024,20-05-2024,20:45,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Thanh Vinh - Vung Tau,190000,9 chỗ ngồi,18:00,20-05-2024,20-05-2024,20:30,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Thanh Vinh - Vung Tau,200000,9 chỗ ngồi,18:00,20-05-2024,20-05-2024,20:30,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Vie Limousine,190000,9 chỗ ngồi,18:00,20-05-2024,20-05-2024,20:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,18:00,20-05-2024,20-05-2024,20:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,18:00,20-05-2024,20-05-2024,20:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,18:02,20-05-2024,20-05-2024,19:32,1 giờ 30 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,18:02,20-05-2024,20-05-2024,19:47,1 giờ 45 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,18:15,20-05-2024,20-05-2024,21:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,18:15,20-05-2024,20-05-2024,21:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,250000,9 chỗ ngồi,18:15,20-05-2024,20-05-2024,21:00,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,18:30,20-05-2024,20-05-2024,20:32,2 giờ 2 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Thanh Vinh - Vung Tau,190000,9 chỗ ngồi,18:30,20-05-2024,20-05-2024,21:00,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Thanh Vinh - Vung Tau,200000,9 chỗ ngồi,18:30,20-05-2024,20-05-2024,21:00,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Vie Limousine,190000,9 chỗ ngồi,18:30,20-05-2024,20-05-2024,20:30,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,18:30,20-05-2024,20-05-2024,20:30,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,18:30,20-05-2024,20-05-2024,20:30,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,18:32,20-05-2024,20-05-2024,20:02,1 giờ 30 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,18:32,20-05-2024,20-05-2024,20:17,1 giờ 45 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,19:00,20-05-2024,20-05-2024,21:02,2 giờ 2 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,19:00,20-05-2024,20-05-2024,21:37,2 giờ 37 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Huy Hoang-Vung Tau,190000,9 chỗ ngồi,19:00,20-05-2024,20-05-2024,21:45,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Huy Hoang-Vung Tau,200000,9 chỗ ngồi,19:00,20-05-2024,20-05-2024,21:45,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Thanh Vinh - Vung Tau,190000,9 chỗ ngồi,19:00,20-05-2024,20-05-2024,21:30,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Thanh Vinh - Vung Tau,200000,9 chỗ ngồi,19:00,20-05-2024,20-05-2024,21:30,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Vie Limousine,190000,9 chỗ ngồi,19:00,20-05-2024,20-05-2024,21:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,19:00,20-05-2024,20-05-2024,21:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,19:00,20-05-2024,20-05-2024,21:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,19:02,20-05-2024,20-05-2024,20:32,1 giờ 30 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,19:02,20-05-2024,20-05-2024,20:47,1 giờ 45 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,19:30,20-05-2024,20-05-2024,21:25,1 giờ 55 phút,"Văn phòng quận 1 83 Nguyen Thai Binh Street, District 1, Ho Chi Minh C",Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,19:30,20-05-2024,20-05-2024,21:32,2 giờ 2 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,"Đối diện Nhà thờ Láng Cát Ba Ria - Vung Tau, Tân Thành",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,19:30,20-05-2024,20-05-2024,22:07,2 giờ 37 phút,Sân Bay Tân Sơn Nhất Bãi đậu xe đối diện Cột số 12 Ga Quốc tế,Văn phòng Hoa Mai Vũng Tàu 47 Trưng Nhị,Vũng Tàu
+Thanh Vinh - Vung Tau,190000,9 chỗ ngồi,19:30,20-05-2024,20-05-2024,22:00,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Thanh Vinh - Vung Tau,200000,9 chỗ ngồi,19:30,20-05-2024,20-05-2024,22:00,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Vie Limousine,190000,9 chỗ ngồi,19:30,20-05-2024,20-05-2024,21:30,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,19:30,20-05-2024,20-05-2024,21:30,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,19:30,20-05-2024,20-05-2024,21:30,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,19:32,20-05-2024,20-05-2024,21:17,1 giờ 45 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Huy Hoang-Vung Tau,190000,9 chỗ ngồi,20:00,20-05-2024,20-05-2024,22:45,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Huy Hoang-Vung Tau,200000,9 chỗ ngồi,20:00,20-05-2024,20-05-2024,22:45,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Hoa Mai,200000,9 chỗ ngồi,20:02,20-05-2024,20-05-2024,21:47,1 giờ 45 phút,Văn phòng Hàng Xanh 450H Điện Biên Phủ,Bến xe Bà Rịa Bến xe Bà Rịa,Vũng Tàu
+Vie Limousine,190000,9 chỗ ngồi,20:30,20-05-2024,20-05-2024,22:30,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,20:30,20-05-2024,20-05-2024,22:30,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,20:30,20-05-2024,20-05-2024,22:30,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Huy Hoang-Vung Tau,190000,9 chỗ ngồi,21:00,20-05-2024,20-05-2024,23:45,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Huy Hoang-Vung Tau,200000,9 chỗ ngồi,21:00,20-05-2024,20-05-2024,23:45,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Vie Limousine,190000,9 chỗ ngồi,21:00,20-05-2024,20-05-2024,23:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,210000,9 chỗ ngồi,21:00,20-05-2024,20-05-2024,23:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Vie Limousine,230000,9 chỗ ngồi,21:00,20-05-2024,20-05-2024,23:00,2 giờ ,Văn phòng Quận 1 131 Nguyễn Thái Bình,"Văn phòng Vũng Tàu 33 Đường 3/2, TP Vũng Tàu",Vũng Tàu
+Huy Hoang-Vung Tau,190000,9 chỗ ngồi,21:30,20-05-2024,21-05-2024,00:15,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Huy Hoang-Vung Tau,200000,9 chỗ ngồi,21:30,20-05-2024,21-05-2024,00:15,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Huy Hoang-Vung Tau,190000,9 chỗ ngồi,22:00,20-05-2024,21-05-2024,00:45,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Huy Hoang-Vung Tau,200000,9 chỗ ngồi,22:00,20-05-2024,21-05-2024,00:45,2 giờ 45 phút,Sân Bay Tân Sơn Nhất Ga quốc tế cột 14,Văn Phòng Vũng Tàu 312 Nguyễn An Ninh,Vũng Tàu
+Thanh Vinh - Vung Tau,190000,9 chỗ ngồi,22:00,20-05-2024,21-05-2024,00:30,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
+Thanh Vinh - Vung Tau,200000,9 chỗ ngồi,22:00,20-05-2024,21-05-2024,00:30,2 giờ 30 phút,"Sân Bay Tân Sơn Nhất 2 Ga quốc tế, ga đến, cột 12",VP Vũng Tàu 25 Nguyễn Thái Học,Vũng Tàu
