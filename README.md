@@ -12,7 +12,7 @@ This project endeavors to scrape Traveloka's data and transform it into a struct
 The extracted data will encompass the following aspects:
 
 ### Hotel Data:
-- **`hotel_names*`*: Name of the hotel
+- **`hotel_names`**: Name of the hotel
 - **`location`**: Hotel location
 - **`price`**: Hotel price
 - **`score_hotels`**: Hotel rating score
