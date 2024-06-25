@@ -1,5 +1,7 @@
 """
 @author : hhtrieu0108
+github : https://github.com/hhtrieu0108
+linkedin : https://www.linkedin.com/in/trieuhh
 """
 
 import numpy as np
